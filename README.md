@@ -95,7 +95,7 @@ Please follow the style conventions of Odin and keep the bindings as close to th
 
 ## Roadmap / TODO
 
-* [ ] Implement more (example-client)[https://github.com/jackaudio/jack-example-tools/blob/main/example-clients]
+* [ ] Implement more [example-client](https://github.com/jackaudio/jack-example-tools/blob/main/example-clients)
 * [ ] Add documentation comments for the binding
 
 ---
